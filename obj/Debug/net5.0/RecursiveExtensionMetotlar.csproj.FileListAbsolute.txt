@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/bin/Debug/net5.0/RecursiveExtensionMetotlar.deps.json
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/bin/Debug/net5.0/RecursiveExtensionMetotlar.runtimeconfig.json
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/bin/Debug/net5.0/RecursiveExtensionMetotlar.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/bin/Debug/net5.0/RecursiveExtensionMetotlar.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/bin/Debug/net5.0/ref/RecursiveExtensionMetotlar.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/bin/Debug/net5.0/RecursiveExtensionMetotlar.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/RecursiveExtensionMetotlar.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/RecursiveExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/RecursiveExtensionMetotlar.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/RecursiveExtensionMetotlar.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/RecursiveExtensionMetotlar.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/RecursiveExtensionMetotlar.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/ref/RecursiveExtensionMetotlar.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/RecursiveExtensionMetotlar.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/RecursiveExtensionMetotlar/obj/Debug/net5.0/RecursiveExtensionMetotlar.genruntimeconfig.cache
